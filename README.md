@@ -4,10 +4,11 @@
 Computer Science & Engineering (Data Science) Graduate | Python & Machine Learning Enthusiast| 
 
 💫 About Me
-- 🔭 Currently working on Machine Learning and Data Science projects
+- 🔭 I’m currently learning and working on AI & ML and Data Science projects
 - 🌱 Exploring advanced technologies and research
 - 💻 Interested in Python, AI, Web Development, and Data Analytics
 - 📫 Building practical projects to improve my technical skills
+- 
 
 
 # 💻 Tech Stack:
