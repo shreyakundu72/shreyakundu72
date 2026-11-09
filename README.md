@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-<# 💫 About Me:
-Hi 👋, I'm Shreya Kundu<br>Computer Science & Engineering (Data Science) Graduate | Python & Machine Learning Enthusiast<br>💫 About Me<br>- 🔭 Currently working on Machine Learning and Data Science projects<br>- 🌱 Exploring advanced technologies and research<br>- 💻 Interested in Python, AI, Web Development, and Data Analytics<br>- 📫 Building practical projects to improve my technical skills<br>🛠️ Skills<br>Python • JavaScript • C • SQL • HTML • CSS • React • Django • FastAPI • Machine Learning • OpenCV
+💫 About Me:
+Hi 👋
+I'm Shreya Kundu<br>Computer Science & Engineering (Data Science) Graduate | Python & Machine Learning Enthusiast<br>💫 About Me<br>- 🔭 Currently working on Machine Learning and Data Science projects<br>- 🌱 Exploring advanced technologies and research<br>- 💻 Interested in Python, AI, Web Development, and Data Analytics<br>- 📫 Building practical projects to improve my technical skills<br>🛠️ Skills<br>Python • JavaScript • C • SQL • HTML • CSS • React • Django • FastAPI • Machine Learning • OpenCV
 
 
 ## 🌐 Socials:
