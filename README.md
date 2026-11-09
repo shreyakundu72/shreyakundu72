@@ -1,7 +1,8 @@
                                                            
-Hi 👋
-I'm Shreya Kundu
-Computer Science & Engineering (Data Science) Graduate | Python & Machine Learning Enthusiast
+                                                            Hi 👋
+                                                        I'm Shreya Kundu
+Computer Science & Engineering (Data Science) Graduate | Python & Machine Learning Enthusiast| 
+
 💫 About Me
 - 🔭 Currently working on Machine Learning and Data Science projects
 - 🌱 Exploring advanced technologies and research
